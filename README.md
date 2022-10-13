@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Redux**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Cetin-ARAS](https://github.com/Cetin-ARAS)
 
