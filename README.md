@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Redux**
+- 🔭 I’m currently working on **React, Redux, Django**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React, Redux, Django**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Cetin-ARAS](https://github.com/Cetin-ARAS)
 
