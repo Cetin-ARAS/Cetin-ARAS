@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Çetin ARAS</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
-<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
+
+<div style="width:100%;height:0;padding-bottom:75%;position:relative;">https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif<iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cetin-aras&label=Profile%20views&color=0e75b6&style=flat" alt="cetin-aras" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
