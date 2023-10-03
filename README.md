@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Çetin ARAS</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
+<iframe src="https://giphy.com/embed/p4NLw3I4U0idi" width="480" height="344" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/programmer-p4NLw3I4U0idi">via GIPHY</a></p>
 
-<a href=https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" target="blank"><img align="center" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"</a>
+<img  src="https://giphy.com/embed/p4NLw3I4U0idi" width="480" height="344" frameBorder="0" class="giphy-embed" allowFullScreen>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cetin-aras&label=Profile%20views&color=0e75b6&style=flat" alt="cetin-aras" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
